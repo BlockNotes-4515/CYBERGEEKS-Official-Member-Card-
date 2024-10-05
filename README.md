@@ -12,6 +12,8 @@ Here's a tailored description for your GitHub repository on the Cyber Geeks memb
   <img src="images/Capture1.PNG" alt="Sample Backward Interface" />
   <hr>
 </div>
+
+
 **Overview:**  
 The Cyber Geeks Member Card is a secure authentication system designed to streamline access control for members. This project implements unique member cards featuring QR codes, enabling quick and efficient verification while maintaining data security through encryption.
 
